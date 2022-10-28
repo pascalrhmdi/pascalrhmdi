@@ -2,7 +2,7 @@
 - 👀 I’m interested in React Architecture
 - 🌱 I’m currently learning React JS in depth
 - 📫 React me at Instagram @pascalrhmdi
-- <!-- - 💞️ I’m looking to collaborate on  -->
+<!-- - 💞️ I’m looking to collaborate on  -->
 
 <!---
 pascalrhmdi/pascalrhmdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
