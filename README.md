@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Pascal Rahmadi
 - 👀 I’m interested in React Architecture
 - 🌱 I’m currently learning React JS in depth
-- 📫 React me at Instagram @pascalrhmdi
+- 📫 Reach me at Instagram @pascalrhmdi
 <!-- - 💞️ I’m looking to collaborate on  -->
 
 <!---
