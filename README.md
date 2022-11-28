@@ -6,7 +6,7 @@ I’m interested in React Architecture, A passionate frontend developer from Ind
 - 🕵 The way I code is I always make sure the code is clean architecture and following the lints with the standard guidelines
 - 👯 I’m looking to collaborate on [SIPODES-PUSAT](pusat.sipodes.my.id)
 - 📫 You can to reach me in my email at muhammadpascalr66@gmail.com
-- ⚡ Fun fact **They think that iam a random person**
+- ⚡ Fun fact **They think that i am a random person**
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
