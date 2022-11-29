@@ -2,11 +2,11 @@
 
 I’m interested in React Architecture, A passionate frontend developer from Indramayu, Indonesia
 
-- 🌱 I’m currently learning **ReactJS in depth**
+- 🌱 I’m currently learning ReactJS in depth
 - 🕵 The way I code is I always make sure the code is clean architecture and following the lints with the standard guidelines
 - 👯 I’m currently develop [SIPODES-PUSAT](pusat.sipodes.my.id)
 - 📫 You can to reach me in my email at muhammadpascalr66@gmail.com
-- ⚡ Fun fact **They think that i am a random person**
+- ⚡ Fun fact They think that i am a random person
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
