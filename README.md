@@ -1,5 +1,7 @@
 ### Hi 👋, I'm Muhammad Pascal Rahmadi
 
+<!-- [![Pascal's GitHub stats](https://github-readme-stats.vercel.app/api?username=pascalrhmdi)](https://github.com/anuraghazra/github-readme-stats) -->
+
 I’m interested in React Architecture, A passionate frontend developer from Indramayu, Indonesia
 
 - 🌱 I’m currently learning ReactJS in depth
