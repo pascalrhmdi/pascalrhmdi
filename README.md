@@ -4,7 +4,7 @@ I’m interested in React Architecture, A passionate frontend developer from Ind
 
 - 🌱 I’m currently learning ReactJS in depth
 - 🕵 The way I code is I always make sure the code is clean architecture and following the lints with the standard guidelines
-- 👯 I’m currently develop [SIPODES-PUSAT](pusat.sipodes.my.id)
+- 👯 I’m currently develop [SIPODES Pusat](pusat.sipodes.my.id)
 - 📫 You can to reach me in my email at muhammadpascalr66@gmail.com
 - ⚡ Fun fact They think that i am a random person
 
